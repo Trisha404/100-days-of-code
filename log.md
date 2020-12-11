@@ -10,7 +10,7 @@
 
 ### Day 1: December 11th, 
 
-**Today's Progress**: I've completed a small project to create a tip calculator.  
+**Today's Progress**: I've completed a small project to create a tip calculator and signed up to the Free Code Camp, where I'm checking out  Dr. Charles Severance (a.k.a. Dr. Chuck) course on Python and Data Science. 
 
-**Thoughts** 
+**Thoughts** I am surprised just how many free resources are avaliable for people wishing to learn coding! 
 
